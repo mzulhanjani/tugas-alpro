@@ -1,3 +1,4 @@
+# memanggil program_1 dan membuat hasil tampil pada python 
 import subprocess
 
 subprocess.run(["python", "random_1.py"])
